@@ -1,5 +1,5 @@
 # hello-world
-y first repository on GitHub.”
+My first repository on GitHub.”
 # Project Title
 Simple overview of the project.
 ## Description
